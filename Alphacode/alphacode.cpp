@@ -1,3 +1,4 @@
+
 /*
  * alphacode.cpp
  * SPOJ 394 Alphacode
@@ -49,6 +50,9 @@ int main()
 	}
 	return 0;
 }
+
+
+
 
 
 
